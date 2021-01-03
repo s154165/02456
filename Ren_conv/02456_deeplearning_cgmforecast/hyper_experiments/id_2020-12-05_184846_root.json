@@ -1,0 +1,10 @@
+{
+    "name": "no_name_yet",
+    "best_trial_dir": "/root/ray_results/DEFAULT_2020-12-05_18-17-36/DEFAULT_26b38_00023_23_batch_size=4,h1=32,h2=128,lr=0.00986,wd=0.00053954_2020-12-05_18-36-30/checkpoint_16/",
+    "train_data": "['570-ws-training']",
+    "test_data": "570-ws-training",
+    "start_date_train": "['2021-12-07 16:29:00']",
+    "start_date_test": "2022-01-13 07:58:00",
+    "end_date_train": "['2022-01-08 20:18:00']",
+    "end_date_test": "2022-01-16 23:59:00"
+}
